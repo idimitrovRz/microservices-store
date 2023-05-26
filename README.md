@@ -14,6 +14,7 @@ This project was built using:
 - Open Feign client
 - MySQL
 - Flyway migration
+- Docker
 
 API Endpoints:
 - Eureka serever: http://localhost:8761
